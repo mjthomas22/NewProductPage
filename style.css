@@ -9,5 +9,42 @@ div#header.page-header {
     border-bottom-width: 0px;
     padding-bottom: 0px;
     text-align: center;
-    background-color: #A8F3FC;
+    background-color: #8a9392;
 }
+
+
+/*nav Bar Styling*/
+a.navbar-brand {
+    padding: 0px;
+}
+
+#navBarLogo {
+    height: 50px;
+}
+
+div#bs-example-navbar-collapse-1.collapse.navbar-collapse {
+    background-color: #D2DFDE;
+    padding: 0;
+    margin: 0;
+}
+
+nav.navbar{
+    padding: 0;
+    background-color: #D2DFDE;
+    margin: 0;
+    border:0;
+}
+
+.edge {
+    background-color: #D2DFDE;
+    margin:0;
+}
+
+nav.navbar a {
+    color: #8a9392;
+}
+
+    nav.navbar a:hover {
+        color: #D2DFDE;
+        background-color: #8a9392;
+    }
