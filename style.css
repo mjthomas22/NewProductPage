@@ -1,0 +1,13 @@
+﻿/*header Starts Here*/
+#headerlogo {
+    height: 80px;
+}
+
+div#header.page-header {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-bottom-width: 0px;
+    padding-bottom: 0px;
+    text-align: center;
+    background-color: #A8F3FC;
+}
